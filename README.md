@@ -2,14 +2,14 @@
 
 ### Project Flowchart
 
-![](.\ui\images\project_flowchart.jpg)
+![project_flowchart](.\ui\images\project_flowchart.jpg)
 
 
 
 
 
 ### Model Flowchart
-![](.\ui\images\model_flowchart.jpg)
+![model_flowchart](.\ui\images\model_flowchart.jpg)
 
 
 
